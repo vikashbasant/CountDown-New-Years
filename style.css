@@ -31,7 +31,7 @@ h1 {
 .big-text {
     font-weight: bold;
     font-size: 1.5rem;
-    line-height: 0.5;
+    line-height: 0;
     margin-top: 0 5rem;
     
     
@@ -43,7 +43,7 @@ h1 {
 	width: 80px;
 	background-color: rgb(215, 230, 230);
 	border: 2px solid blue;
-	padding: -2px;
+	/* padding: -2px; */
 	margin: 2px; /*margin not add into actual height and width of the content*/
     
 	box-sizing: border-box;
@@ -51,7 +51,7 @@ h1 {
     
     text-align: center;  
     gap: 4rem;
-    padding: 5rem 0;
+    padding: 2rem 0 4rem 0;
 }
 
 .countdown-el span {
