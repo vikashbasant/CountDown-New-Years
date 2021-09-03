@@ -1,2 +1,2 @@
-# CountDown-New-Years
-I developed this countdown web using html,css &amp; javascript. 
+NewYear Countdown
+Our aim is to calculate the how many days, hours, mintues, seconds are left for New Year.
